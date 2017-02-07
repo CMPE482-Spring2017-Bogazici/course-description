@@ -11,10 +11,9 @@ Bogazici University, Department of Computer Engineering
 
 ### Workflow for Assignment and Project Submissions
 
-Assignments will be submitted via github, using git and the free github education service. Make sure you 
-have a github account.
+Assignments will be submitted via github, using git and the free github education service. 
 
-Make sure your account name is properly displayed (such as Ahmet Mehmet and not ahmtmht)
+Make sure you have an active github account and your name is also properly displayed (such as Ahmet Mehmet (ahmtmht) and not only your account name ahmtmht)
 
 If you're using GitHub Desktop, these general instructions will help:
 

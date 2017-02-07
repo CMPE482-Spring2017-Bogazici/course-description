@@ -3,12 +3,12 @@
 = CMPE 482 - Numerical Linear Algebra and Its Applications 
 
 
-== Spring 2016
+== Spring 2017
 
 Instructor: Ali Taylan Cemgil \n
-Bogaziçi University, Department of Computer Engineering,\n Istanbul, Turkey
+Bogazici University, Department of Computer Engineering,\n Istanbul, Turkey
 
-== Important announcement for taking CMPE482 in Spring 2016 for credit
+== Important announcement for taking CMPE482 in Spring 2017 for credit
 . Prerequisite: Ability (or willingness to learn) programming in Octave and Python (numpy, scipy) and preparing reports on a jupyther notebook using latex and ipython. We won't teach you programming and programming projects are an important part. 
 . As CMPE482 is an elective course and there is no TA assigned this year, the class will be smaller this year.
 . The projects will be turned in using git so you must be also familiar with it.
@@ -94,7 +94,8 @@ applications chosen from a broad range of topics related to data analysis.
 . Baris Kurt
 
 == Submissions 
-- We will use git [https://dl.dropboxusercontent.com/u/9787379/grader_info/index.html]
+- We will use github education 
+[https://github.com/CMPE482-Spring2017-Bogazici/course-description]
 
 == Computer Usage
 We will use Octave and Python. See:

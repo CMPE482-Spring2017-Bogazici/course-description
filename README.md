@@ -2,7 +2,7 @@
 
 ### CMPE 482, Numerical Linear Algebra and Its Applications
 
-[Course Home Page](https://dl.dropboxusercontent.com/u/9787379/cmpe482/index.html)
+[Course Home Page](https://www.cmpe.boun.edu.tr/~cemgil/Courses/cmpe482/index.html)
 
 [Ali Taylan Cemgil](https://www.cmpe.boun.edu.tr/~cemgil/)
 

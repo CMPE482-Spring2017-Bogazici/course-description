@@ -1,0 +1,84 @@
+# jemdoc: menu{MENU}{description.html}
+= CMPE 482 - Numerical Linear Algebra and Its Applications
+
+
+== Description
+One of the key challenge facing computer science in the 21st century is developing methods for the processing of large data sets. With the advance 
+of sensor and storage technologies, 
+and with the cost of data acquisition dropping significantly, we are able to monitor complex systems over time, easily collect and record vast 
+amounts of raw data. The main challenge is to extract meaningful information from these highly structured datasets that can be 
+of interest for scientific, financial, political or technological purposes. 
+\n
+In this context, numerical linear algebra provides a set of basic methods that are useful for developing algorithms for a diverse spectrum 
+of applications in data processing. At its heart, this field studies algorithms for performing linear algebra computations, most notably matrix operations. 
+These elegant algorithms provide often fundamental solutions to engineering and computational problems, such as 
+. Image and signal processing, 
+. Information retrieval
+. Data mining, 
+. Machine learning, 
+. Bioinformatics 
+. Optimization
+. Computational Finance, 
+ 
+\n and many related areas. Our goal in this course is to provide an overview of this important field, along with 
+applications chosen from a broad range of topics related to data analysis. 
+
+== Textbook
+. Trefethen, Lloyd N. and Bau III, David;  (1997). Numerical linear algebra. Philadelphia: Society for Industrial and Applied Mathematics. ISBN 978-0-89871-361-9
+
+== Further References
+. Golub, Gene H.; van Loan, Charles F. (1996), Matrix Computations, 3rd edition, Johns Hopkins University Press, ISBN 978-0-8018-5414-9
+
+== Topics
+=== I Fundamentals (Week 1-2)
+
+- Matrix-Vector Multiplication
+- Orthogonal Vectors and Matrices
+- Vector and Matrix Norms
+- Singular Value Decomposition
+- *Application*: Document Retrieval, Latent Semantic indexing, Procrustes analysis
+
+=== II QR Factorization (Week 3-5) 
+
+- Projectors
+- Gram-Schmidt Orthogonalization, QR Factorization
+- MATLAB
+- Householder Triangularization
+- Least Square Problems
+- *Application*: Polynomial and Basis Regression
+
+=== III Conditioning and Stability (Week 6)
+
+- Conditioning and Condition numbers
+- Floating Point Arithmetic
+- Stability
+- *Application*: Stability analysis of least squares algorithm
+
+=== IV Systems of Equations (Week 7-8)
+- Gaussian Elimination, Pivoting
+- Cholesky Factorization
+- *Application*: Fast solution of linear systems
+
+=== V Eigenvalues (Week 9-11)
+
+- Eigenvalue Problems
+- Overview of Eigenvalue Algorithms
+- Reduction to Hessenberg or Tridiagonal form
+- Rayleight Quotient, Inverse Iteration
+- QR algorithm without/with shifts
+- Computing the SVD
+- *Application*: Spectral Clustering, Image segmentation
+
+=== VI Iterative Methods (Week 11-13)
+
+- Overview of Iterative methods
+- The Arnoldi iteration
+- GMRES
+- The Lancsoz Iteration, Gauss Quadrature
+- Conjugate Gradients 
+- *Application*: Stationary distribution of a Markov Chain, Google's PageRank algorithm, Social Network analysis
+
+
+=== Total Credits
+3
+

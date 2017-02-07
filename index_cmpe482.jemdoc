@@ -1,0 +1,156 @@
+# jemdoc: menu{MENU}{index.html}
+
+= CMPE 482 - Numerical Linear Algebra and Its Applications 
+
+
+== Spring 2016
+
+Instructor: Ali Taylan Cemgil \n
+Bogaziçi University, Department of Computer Engineering,\n Istanbul, Turkey
+
+== Important announcement for taking CMPE482 in Spring 2016 for credit
+. Prerequisite: Ability (or willingness to learn) programming in Octave and Python (numpy, scipy) and preparing reports on a jupyther notebook using latex and ipython. We won't teach you programming and programming projects are an important part. 
+. As CMPE482 is an elective course and there is no TA assigned this year, the class will be smaller this year.
+. The projects will be turned in using git so you must be also familiar with it.
+. CmpE students: Consent is required, I will accept only around 7-8 motivated students. 
+. Math undergraduates: In the past, many Math majors took the course but experience has shown that the lack of basic programming skills and the lack of computational thinking has been a major problem. This year, I will consider each consent request separately and I will be more selective. You need to have a high GPA (at least 2.75) and your transcript should reflect 
+your programming background. I will approve your request with some delay (possibly by the last day of registration) and only if there are enough empty spots.
+
+== Administrative 
+- Attendance and Participation in the lectures %10
+- Midterm %30
+- Final %30
+- 3 Projects %30
+
+
+== Final Project Bundle 
+[projects_spring2016.pdf]
+
+
+== Example Exams
+[2014spring-cmpe482-mt1.pdf]
+
+[2015spring-cmpe482-final.pdf]
+
+[2015spring-cmpe482-mt1.pdf]
+
+
+== Description
+If you are interested in Machine learning, Data mining or Signal Processing, you shouldn't miss this course!
+
+One of the key challenge facing computer science in the 21st century is developing methods for the processing of large data sets. With the advance 
+of sensor and storage technologies, 
+and with the cost of data acquisition dropping significantly, we are able to monitor complex systems over time, easily collect and record vast 
+amounts of raw data. The main challenge is to extract meaningful information from these highly structured datasets that can be 
+of interest for scientific, financial, political or technological purposes. 
+\n
+In this context, numerical linear algebra provides a set of basic methods that are useful for developing algorithms for a diverse spectrum 
+of applications in data processing. At its heart, this field studies algorithms for performing linear algebra computations, most notably matrix operations. 
+These elegant algorithms provide often fundamental solutions to engineering and computational problems, such as 
+. Image and signal processing, 
+. Information retrieval
+. Data mining, 
+. Machine learning, 
+. Bioinformatics 
+. Optimization
+. Computational Finance, 
+ 
+\n and many related areas. Our goal in this course is to provide an overview of this important field, along with 
+applications chosen from a broad range of topics related to data analysis. 
+
+== Textbook
+. Trefethen, Lloyd N. and Bau III, David;  (1997). Numerical linear algebra. Philadelphia: Society for Industrial and Applied Mathematics. ISBN 978-0-89871-361-9
+
+== Further References
+. Golub, Gene H.; van Loan, Charles F. (1996), Matrix Computations, 3rd edition, Johns Hopkins University Press, ISBN 978-0-8018-5414-9
+
+== Lecture Slides
+
+. [slides/Lecture01.pdf Lecture 01,02,03 - Matrix-Vector Multiplication, Orthogonal Vectors and Matrices, Norms.pdf]
+. [slides/Lecture04.pdf Lecture 04,05 - The SVD, More on the SVD.pdf]
+. [slides/Lecture06.pdf Lecture 06,07,08,09 - Projectors, QR Factorization, Gram-Schmidt, Matlab.pdf]
+. [slides/Lecture10.pdf Lecture 10,11 - Householder Triangularization, Least Squares Problems.pdf]
+. [slides/Lecture12.pdf Lecture 12,13 - Conditioning, Floating Point Arithmetic.pdf]
+. [slides/Lecture14.pdf Lecture 14,18,19 - Stability, Cond of LS prob, Stab of LS alg.pdf]
+. [slides/Lecture24.pdf Lecture 24,25 - Eigenvalue Problems, Eigenvalue Algorithms.pdf]
+. [slides/Lecture26.pdf Lecture 26-27, To hessenberg form, RQ, Power, inserve iterations.pdf]
+. [slides/Lecture28.pdf Lecture 28,29 - QR Algorithm with and without Shifts.pdf]
+. [slides/Lecture30.pdf Lecture 30,31 - Other Eigenvalue Algorithms, Computing the SVD.pdf]
+. [slides/Lecture32.pdf Lecture 32 - Overview of Iterative Methods.pdf]
+. [slides/Lecture33.pdf Lecture 33,34 - Arnoldi Iteration.pdf]
+. [conj_grad.pdf Conjugate Gradients]
+
+- Thanks to all that have participated in the $\pi$-Lab-$\sigma$ reading group series of Spring 2013! 
+. Ismail Ari
+. Hakan Guldas 
+. Umut Simsekli
+. Onur Gungor
+. Beyza Ermis
+. Deniz Akyildiz
+. Can Kavaklioglu
+. Baris Fidaner
+. Alp Kindiroglu
+. Cem Subakan
+. Baris Kurt
+
+== Submissions 
+- We will use git [https://dl.dropboxusercontent.com/u/9787379/grader_info/index.html]
+
+== Computer Usage
+We will use Octave and Python. See:
+- [https://www.gnu.org/software/octave/ GNU Octave]
+- [http://79.123.177.215/cmpe250/CmpeVM.ova A virtual machine Xubuntu, with Octave installed (password 123456)]
+
+~~~
+{Starting Octave}{bash}
+octave --force-gui
+~~~
+
+Octave is a popular matlab clone. So, most (but not all) matlab material is useful
+- [http://code.google.com/p/yagtom/ YAGTOM: Yet Another Guide TO Matlab] 
+
+== Topics 
+=== I Fundamentals 
+
+- Matrix-Vector Multiplication
+- Orthogonal Vectors and Matrices
+- Vector and Matrix Norms
+- Singular Value Decomposition
+- *Application*: Document Retrieval, Latent Semantic indexing, Procrustes analysis
+
+=== II QR Factorization 
+
+- Projectors
+- Gram-Schmidt Orthogonalization, QR Factorization
+- MATLAB
+- Householder Triangularization
+- Least Square Problems
+- *Application*: Polynomial and Basis Regression
+
+=== III Conditioning and Stability 
+
+- Conditioning and Condition numbers
+- Floating Point Arithmetic
+- Stability
+
+=== V Eigenvalues 
+
+- Eigenvalue Problems
+- Overview of Eigenvalue Algorithms
+- Reduction to Hessenberg or Tridiagonal form
+- Rayleight Quotient, Inverse Iteration
+- QR algorithm without/with shifts
+- Computing the SVD
+- *Application*: Spectral Clustering, Image segmentation
+
+
+
+=== Total Credits
+3
+
+=== Dedication
+This course is dedicated to the memory of our collegue and friend Ismail Ari (1983-2013).
+
+
+
+

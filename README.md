@@ -2,12 +2,17 @@
 
 ### CMPE 482, Numerical Linear Algebra and Applications
 
-Ali Taylan Cemgil, [Home](https://www.cmpe.boun.edu.tr/~cemgil/)
+[Course Home Page](https://dl.dropboxusercontent.com/u/9787379/cmpe482/index.html)
+
+[Ali Taylan Cemgil](https://www.cmpe.boun.edu.tr/~cemgil/)
 
 Bogazici University, Department of Computer Engineering
 
 
-### Workflow
+### Workflow for Assignment and Project Submissions
+
+Assignments will be submitted via github, using git and the free github education service. Make sure you 
+have a github account.
 
 If you're using GitHub Desktop, these general instructions will help:
 

@@ -1,7 +1,9 @@
-Bogazici University, Department of Computer Engineering
+
+
 ### CMPE 482, Numerical Linear Algebra and Applications
 
 Ali Taylan Cemgil, [Home](https://www.cmpe.boun.edu.tr/~cemgil/)
+
 Bogazici University, Department of Computer Engineering
 
 

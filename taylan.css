@@ -1,0 +1,123 @@
+BODY {
+	FONT-SIZE: 11pt; COLOR: black; FONT-FAMILY: sans-serif; BACKGROUND-COLOR: white; TEXT-ALIGN: justify
+}
+H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16pt; FONT-FAMILY: sans-serif; TEXT-DECORATION: none
+}
+H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14pt; FONT-FAMILY: sans-serif; TEXT-DECORATION: none
+}
+H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: sans-serif; TEXT-DECORATION: none
+}
+H4 {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: sans-serif; TEXT-DECORATION: none
+}
+H5 {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: sans-serif; TEXT-DECORATION: none
+}
+H6 {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: sans-serif; TEXT-DECORATION: none
+}
+SELECT {
+	FONT-SIZE: 9pt; FONT-FAMILY: sans-serif
+}
+TABLE {
+	FONT-SIZE: 9pt; FONT-FAMILY: sans-serif
+}
+TR {
+	FONT-SIZE: 9pt; FONT-FAMILY: sans-serif
+}
+TD {
+	FONT-SIZE: 9pt; FONT-FAMILY: sans-serif
+}
+TABLE {
+	VERTICAL-ALIGN: bottom; FONT-FAMILY: sans-serif; TEXT-ALIGN: left
+}
+PRE {
+	PADDING-LEFT: 5mm; COLOR: black; FONT-FAMILY: courier,monospace; BACKGROUND-COLOR: #eeeeee
+}
+TT {
+	PADDING-LEFT: 0cm; FONT-FAMILY: courier,monospace
+}
+DT {
+	FONT-WEIGHT: bold; PADDING-TOP: 0.5em
+}
+BR {
+	PADDING-TOP: 0.3em
+}
+TD {
+	VERTICAL-ALIGN: top
+}
+P {
+	TEXT-ALIGN: justify
+}
+EM {
+	FONT-WEIGHT: bold
+}
+IMG {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; DISPLAY: inline; PADDING-LEFT: 0pt; MARGIN-LEFT: 0pt; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+TD.header {
+	VERTICAL-ALIGN: bottom; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; TEXT-ALIGN: right; BORDER-BOTTOM-STYLE: none
+}
+TD.dept {
+	FONT-WEIGHT: bold; FONT-SIZE: 11pt; VERTICAL-ALIGN: bottom; FONT-FAMILY: sans-serif; TEXT-ALIGN: right
+}
+IMG.header {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; DISPLAY: block; PADDING-LEFT: 0pt; MARGIN-LEFT: 0pt; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+TD.navbar {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; MARGIN: 0px; VERTICAL-ALIGN: top; COLOR: #336699; TEXT-ALIGN: left
+}
+TD.menu {
+	FONT-SIZE: 9pt; MARGIN: 0px; VERTICAL-ALIGN: text-bottom; TEXT-ALIGN: right
+}
+TD.leftmenu {
+	FONT-SIZE: 9pt; MARGIN: 0px; VERTICAL-ALIGN: text-bottom; TEXT-ALIGN: left
+}
+TD.leftmenuital {
+	FONT-SIZE: 9pt; MARGIN: 0px; VERTICAL-ALIGN: text-bottom; FONT-STYLE: italic; TEXT-ALIGN: left
+}
+TD.footer {
+	FONT-SIZE: 9pt; MARGIN: 0px; VERTICAL-ALIGN: text-bottom; COLOR: #888888
+}
+A.footer:visited {
+	DISPLAY: inline; COLOR: #888888; TEXT-DECORATION: none
+}
+A.footer:link {
+	DISPLAY: inline; COLOR: #888888; TEXT-DECORATION: none
+}
+A.footer:hover {
+	DISPLAY: inline; COLOR: #444444; TEXT-DECORATION: none
+}
+A.nav {
+	DISPLAY: inline; FONT-WEIGHT: bold; COLOR: #336699; FONT-FAMILY: sans-serif; TEXT-DECORATION: none
+}
+A.nav:link {
+	COLOR: #336699
+}
+A.nav:visited {
+	COLOR: #336699
+}
+A.nav:hover {
+	COLOR: black
+}
+A:visited {
+	DISPLAY: inline; COLOR: #336699; TEXT-DECORATION: none
+}
+A:link {
+	DISPLAY: inline; COLOR: #336699; TEXT-DECORATION: none
+}
+A:hover {
+	DISPLAY: inline; COLOR: black; TEXT-DECORATION: none
+}
+TABLE.window {
+	BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; BORDER-LEFT: #666666 1px solid; BORDER-BOTTOM: #666666 1px solid; BORDER-COLLAPSE: collapse
+}
+TD.window-caption {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; FONT-WEIGHT: bold; BORDER-LEFT: medium none; COLOR: white; BORDER-BOTTOM: medium none; FONT-FAMILY: sans-serif; BACKGROUND-COLOR: #666666; TEXT-ALIGN: center
+}
+TD.window-text {
+	BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; FONT-SIZE: 10pt; BORDER-LEFT: #666666 1px solid; BORDER-BOTTOM: #666666 1px solid; FONT-FAMILY: sans-serif; BACKGROUND-COLOR: #ffff99
+}

@@ -1,6 +1,6 @@
 
 
-### CMPE 482, Numerical Linear Algebra and Applications
+### CMPE 482, Numerical Linear Algebra and Its Applications
 
 [Course Home Page](https://dl.dropboxusercontent.com/u/9787379/cmpe482/index.html)
 

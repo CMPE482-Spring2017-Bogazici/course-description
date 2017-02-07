@@ -6,7 +6,8 @@
 == Spring 2017
 
 Instructor: Ali Taylan Cemgil \n
-Bogazici University, Department of Computer Engineering,\n Istanbul, Turkey
+Bogazici University, \n
+Department of Computer Engineering,\n Istanbul, Turkey
 
 == Important announcement for taking CMPE482 in Spring 2017 for credit
 . Prerequisite: Ability (or willingness to learn) programming in Octave and Python (numpy, scipy) and preparing reports on a jupyther notebook using latex and ipython. We won't teach you programming and programming projects are an important part. 
@@ -24,10 +25,11 @@ your programming background. I will approve your request with some delay (possib
 
 
 == Final Project Bundle 
+
+
+== Example Exams and projects 
 [projects_spring2016.pdf]
 
-
-== Example Exams
 [2014spring-cmpe482-mt1.pdf]
 
 [2015spring-cmpe482-final.pdf]
@@ -38,13 +40,8 @@ your programming background. I will approve your request with some delay (possib
 == Description
 If you are interested in Machine learning, Data mining or Signal Processing, you shouldn't miss this course!
 
-One of the key challenge facing computer science in the 21st century is developing methods for the processing of large data sets. With the advance 
-of sensor and storage technologies, 
-and with the cost of data acquisition dropping significantly, we are able to monitor complex systems over time, easily collect and record vast 
-amounts of raw data. The main challenge is to extract meaningful information from these highly structured datasets that can be 
-of interest for scientific, financial, political or technological purposes. 
-\n
-In this context, numerical linear algebra provides a set of basic methods that are useful for developing algorithms for a diverse spectrum 
+
+Numerical linear algebra provides a set of basic methods that are useful for developing algorithms for a diverse spectrum 
 of applications in data processing. At its heart, this field studies algorithms for performing linear algebra computations, most notably matrix operations. 
 These elegant algorithms provide often fundamental solutions to engineering and computational problems, such as 
 . Image and signal processing, 

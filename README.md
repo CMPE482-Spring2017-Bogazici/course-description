@@ -34,3 +34,4 @@ For more information on Git: (https://git-scm.com/book/en/v2/Git-Branching-Branc
 
 ### Assignments
 0. [dummy-assignment](https://github.com/CMPE482-Spring2017-Bogazici/dummy-assignment) (Deadline: *Feb 22nd*, 14:00)
+0. [Homework 2](https://github.com/CMPE482-Spring2017-Bogazici/hw2)

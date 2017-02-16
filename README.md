@@ -31,3 +31,6 @@ Enabling `Edit`->`Automatically Sync after Committing` is recommended. Here are 
 1. You can continue to push fixes and improvements until the deadline and create new pull requests – just add a comment in the pull request to let us know what has been updated.
 
 For more information on Git: (https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
+
+### Assignments
+0. [dummy-assignment](https://github.com/CMPE482-Spring2017-Bogazici/dummy-assignment) (Deadline: *Feb 22nd*, 14:00)
